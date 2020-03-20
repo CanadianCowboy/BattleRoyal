@@ -11,11 +11,11 @@ pulled base chest loot tables from Minecraft `1.15.2`
 ## TODO LIST
 - [x] Work on `pack.mcmeta`
 - [x] Test Pack
-
-
-- [ ] figure out loot tables
-- [ ] TEST
+- [ ] brainstorm items for loot
+- [ ] figure out loot tables/ create loot tables
+- [ ] TEST 
 - [ ] chart loot table for custom map
+- [ ] villger custom trading 
 - [ ] make a custom map NEED SOMEONE TO HELP PLEASE
 - [ ] add groups system 
 - [ ] test
