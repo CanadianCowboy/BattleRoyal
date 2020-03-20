@@ -17,3 +17,6 @@ to be worked on
 - [ ] points system
 - [ ] respawn as spector on place of death 
 - [ ] gulog like COD:MW battle royal 
+
+## install help
+copy files into `*YOUR MINRCRAFT DIRECTORY* \.minecraft\saves\[YOUR WOURLD FILE]\datapacks all but `.getignore `,`.getattributes`,`LICENSE` and the `README.md`   
