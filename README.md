@@ -20,7 +20,7 @@ pulled base chest loot tables from Minecraft `1.15.2`
 - [ ] add groups system 
 - [ ] test
 - [ ] add spawning system
-- [ ]test
+- [ ] test
 - [ ] add world border 
 #####     Later date stuff
 - [ ] points system
