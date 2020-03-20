@@ -1,15 +1,15 @@
-# BattleRoyal
+# **_**BattleRoyal**_**
 to be worked on
 
-This Pack Was ceated for Minecraft `1.15.2`
+This Pack Was ceated for Minecraft **`1.15.2`**
 
 #
 ##in progress
 file struture
-pulled base chest loot tables from Minecraft `1.15.2` 
+pulled base chest loot tables from Minecraft **`1.15.2`** 
 #
 ## TODO LIST
-- [x] Work on `pack.mcmeta`
+- [x] Work on **`pack.mcmeta`**
 - [x] Test Pack
 - [ ] brainstorm items for loot
 - [ ] figure out loot tables/ create loot tables
@@ -28,4 +28,4 @@ pulled base chest loot tables from Minecraft `1.15.2`
 - [ ] gulog like COD:MW battle royal 
 
 ## install help
-copy ALL files into `*YOUR MINRCRAFT DIRECTORY* \.minecraft\saves\[YOUR WOURLD FILE]\datapacks` but NOT `.getignore `,`.getattributes`,`LICENSE` and the `README.md`   
+copy ALL files into ___**`*YOUR MINRCRAFT DIRECTORY* \.minecraft\saves\[YOUR WOURLD FILE]\datapacks`___** but NOT **`.getignore `,`.getattributes`,`LICENSE`** and the **`README.md`**   
