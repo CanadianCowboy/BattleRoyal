@@ -9,7 +9,7 @@ to be worked on
 - [ ] Test Pack
 - [ ] figure out loot tables
 - [ ] chrat loot table for custom map
-- [ ] mak custom map 
+- [ ] make a custom map 
 - [ ] add groups system 
 - [ ] add spawning system
 - [ ] add world border 
