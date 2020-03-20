@@ -8,7 +8,7 @@ to be worked on
 - [x] Work on `pack.mcmeta`
 - [ ] Test Pack
 - [ ] figure out loot tables
-- [ ] chrat loot table for custom map
+- [ ] chart loot table for custom map
 - [ ] make a custom map 
 - [ ] add groups system 
 - [ ] add spawning system
