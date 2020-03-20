@@ -19,4 +19,4 @@ to be worked on
 - [ ] gulog like COD:MW battle royal 
 
 ## install help
-copy files into `*YOUR MINRCRAFT DIRECTORY* \.minecraft\saves\[YOUR WOURLD FILE]\datapacks all but `.getignore `,`.getattributes`,`LICENSE` and the `README.md`   
+copy ALL files into `*YOUR MINRCRAFT DIRECTORY* \.minecraft\saves\[YOUR WOURLD FILE]\datapacks` but NOT `.getignore `,`.getattributes`,`LICENSE` and the `README.md`   
