@@ -2,6 +2,9 @@
 to be worked on
 
 
+#
+##in progress
+file struture
 
 #
 ## TODO LIST
