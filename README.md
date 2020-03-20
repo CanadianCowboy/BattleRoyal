@@ -1,11 +1,12 @@
 # BattleRoyal
 to be worked on
 
+This Pack Was ceated for Minecraft `1.15.2`
 
 #
 ##in progress
 file struture
-
+pulled base chest loot tables from Minecraft `1.15.2` 
 #
 ## TODO LIST
 - [x] Work on `pack.mcmeta`
