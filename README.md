@@ -9,8 +9,8 @@ file struture
 pulled base chest loot tables from Minecraft **`1.15.2`** 
 #
 ## TODO LIST
-- [x] Work on **`pack.mcmeta`**
-- [x] Test Pack
+- [ ] work on adding wepons
+#####do first^^^^^^^^^
 - [ ] brainstorm items for loot
 - [ ] figure out loot tables/ create loot tables
 - [ ] TEST 
